@@ -26,7 +26,7 @@ public class TriggerCutscene : MonoBehaviour
     // Triggered when the player interacts with the GameObject
     private void OnTriggerEnter(Collider other)
     {
-        //If the player object tagged player hit this triggerable GameObject do this:
+        //If the game object tagged player hit this triggerable GameObject do this:
         if(other.tag == "Player"){
             //Turn the cutscene camera on
             Camera2.SetActive(true);

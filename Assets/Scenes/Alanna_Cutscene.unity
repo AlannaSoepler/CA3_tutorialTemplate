@@ -1034,7 +1034,6 @@ MonoBehaviour:
   Timeline: {fileID: 1852891951}
   Camera1: {fileID: 3425122005312767908}
   Camera2: {fileID: 1396298265}
-  Clip: {fileID: 66673138}
 --- !u!65 &1021462904
 BoxCollider:
   m_ObjectHideFlags: 0
